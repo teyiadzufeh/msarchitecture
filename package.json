@@ -1,0 +1,24 @@
+{
+  "name": "dockerapp",
+  "version": "1.0.0",
+  "description": "Test for salt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "customerservice",
+    "fintech"
+  ],
+  "author": "Teyi Adzufeh",
+  "license": "ISC",
+  "devDependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
